@@ -12,7 +12,6 @@ Python и Desktop Plugin SDK. Репозиторий предназначен д
 ## Ссылки
 
 - [Исходный код клиента Ovygram](https://github.com/Ovygram/Ovygram)
-- [Документация Python SDK](https://github.com/Ovygram/Ovygram/blob/main/docs/guide.md)
 - [Примеры плагинов](https://github.com/Ovygram/Ovygram/tree/main/tools/ovygram/examples)
 - [Бот подачи плагинов — @OvygramApp](https://t.me/OvygramApp)
 - [Индекс опубликованных плагинов](index.json)

@@ -38,12 +38,9 @@ __requirements__ = []
 }
 ```
 
-Полные инструкции и шаблон:
+Шаблон проекта:
 
-- [Первый плагин и руководство SDK](https://github.com/Ovygram/Ovygram/blob/main/docs/guide.md)
 - [Шаблон проекта](https://github.com/Ovygram/Ovygram/tree/main/tools/ovygram/template)
-- [UI API, меню и кнопки панелей](https://github.com/Ovygram/Ovygram/blob/main/docs/ui.md)
-- [Форматы, установка и обновления](https://github.com/Ovygram/Ovygram/blob/main/docs/plugin-distribution.md)
 
 ## Модерация и публикация
 
