@@ -1,0 +1,14 @@
+{
+  "id": "wiki_pl",
+  "name": "Что это? (Википедия)",
+  "description": "Пункт «Что это?» в меню сообщения показывает краткую справку из Википедии.",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "author": "Maxutka",
+      "release_sequence": 1,
+      "url": "https://raw.githubusercontent.com/Ovygram/ovygram-plugins/4602087e8da13610c2fd7eafca2caf6c57ad0633/plugins/wiki_pl/1.0.1/wiki_pl.ovyplugin",
+      "package_type": "ovyplugin"
+    }
+  ]
+}

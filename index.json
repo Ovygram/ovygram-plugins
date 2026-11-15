@@ -1,3 +1,10 @@
 {
-  "plugins": {}
+  "plugins": {
+    "wiki_pl": {
+      "latest_version": "1.0.1",
+      "release_sequence": 1,
+      "url": "https://raw.githubusercontent.com/Ovygram/ovygram-plugins/4602087e8da13610c2fd7eafca2caf6c57ad0633/plugins/wiki_pl/1.0.1/wiki_pl.ovyplugin",
+      "info_url": "https://raw.githubusercontent.com/Ovygram/ovygram-plugins/main/plugins/wiki_pl/info.json"
+    }
+  }
 }
